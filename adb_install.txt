@@ -1,0 +1,1 @@
+adb  -s 127.0.0.1:62001 install  C:\Users\Shuqing\Desktop\Appium\kaoyan3.1.0.apk 自动化测试教程\wandoujia.apk"
